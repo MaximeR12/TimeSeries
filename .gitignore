@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# DB extensions
+datafiles/
+*.csv
+*.sqlite3
+*.pages
+
 # C extensions
 *.so
 
@@ -19,6 +25,7 @@ lib64/
 parts/
 sdist/
 var/
+ressources/
 wheels/
 share/python-wheels/
 *.egg-info/
